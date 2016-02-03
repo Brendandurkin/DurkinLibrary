@@ -6,7 +6,7 @@
 	<groupId>durkin.national.library</groupId>
 	<artifactId>durkin.library.demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>durkin.library.demo</name>
 	<description>Demo Spring Boot project</description>
