@@ -1,0 +1,16 @@
+id\durkin\Application.class
+id\durkin\repositories\BookRepository.class
+id\durkin\model\Book.class
+id\durkin\services\BookServiceImpl.class
+id\durkin\BookController.class
+id\durkin\services\PersonServiceImpl.class
+id\durkin\model\PersonBookId.class
+id\durkin\PersonController.class
+id\durkin\repositories\PersonRepository.class
+id\durkin\model\PersonBook.class
+id\durkin\HomeController.class
+id\durkin\boostrap\DataLoader.class
+id\durkin\model\Person.class
+id\durkin\services\BookService.class
+id\durkin\model\JsonResponse.class
+id\durkin\services\PersonService.class
